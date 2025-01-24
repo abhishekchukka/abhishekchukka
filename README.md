@@ -27,7 +27,7 @@ Beyond coding, I’m passionate about exploring emerging tech trends, automating
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchukka&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchukka" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekchukka" alt="abhishekchukka" /></a> </p>-->
-🔭 I’m currently building an innovative Day CarW Website to simplify vehicle care.<br>
+<!--🔭 I’m currently building an innovative Day Care Website as a freelance care.<br>-->
 🌱 I’m exploring the power of Next.js to create dynamic and scalable applications.<br>
 👯 I’m excited to collaborate on full-stack development projects and solve real-world challenges.<br>
 👨‍💻 You can check out all my projects on GitHub.<br>
