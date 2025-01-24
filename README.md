@@ -8,7 +8,7 @@ Hi there! 👋 I'm Chukka Abhishek Mahin Prabhas, a dedicated web developer with
 <p align="left">
 I have a knack for solving real-world problems through web development. Over time, I’ve worked on diverse projects, including:  
 <ul>
-  <li>💻 A <strong>Day Care Website</strong> to simplify vehicle care and management.</li>
+  <li>💻 A <strong>Sport Scheduler</strong> to scheduling sport sessions and players.</li>
   <li>📹 A <strong>YouTube Clone</strong>, showcasing video streaming and API integrations.</li>
   <li>🏋️‍♂️ An <strong>AI-powered fitness generator</strong> that customizes fitness plans and recipes.</li>
   <li>🎥 A <strong>Movie search platform</strong> with local saving and rating capabilities.</li>
